@@ -1,6 +1,6 @@
 ---
 title: "JL R markdown"
-output: word_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
